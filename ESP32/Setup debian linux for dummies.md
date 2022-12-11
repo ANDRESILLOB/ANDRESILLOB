@@ -1,4 +1,4 @@
-### Setup debian linux for dummies
+### Setup python for distro debian linux 
 
 1) Download your prefered version of debian linux
 2) Install linux
