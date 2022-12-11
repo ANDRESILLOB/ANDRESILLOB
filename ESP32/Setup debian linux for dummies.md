@@ -29,4 +29,3 @@
     sudo apt-get install git
     ```
     
-### Enjoy your debian distro 
