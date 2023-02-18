@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi  👋
+:exclamation: Me encanta la programación y automatizacion :exclamation:
+
+### Se ha realizado proyectos en automatización, robotica, automatización de analisis de procesos administrativos, clusters y proyectos de programacion usando :
+
+
+- #####  :snake: Python
+- ##### :heavy_plus_sign: C y C++
+- #####  :pill: Assembler o lenguaje de maquina
+- ###### :chart_with_upwards_trend: Preparandome en Web 
+
+---
+
+
+> Realizando cambios en mi vida 
+>  <pre>              Att: Yo
+
+
+### :art: En Proceso de actualizar
+
 
 <!--
 **ANDRESILLOB/ANDRESILLOB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
